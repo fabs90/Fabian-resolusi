@@ -7,3 +7,5 @@ List matkul
 - Konsep Sistem Informasi 2C
 - Teori Organisasi Umum
 - Bahasa Inggris
+- Praktikum AI
+- Team Teaching AI
