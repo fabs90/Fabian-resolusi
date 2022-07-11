@@ -5,3 +5,5 @@ List matkul
 - Konsep Sistem Informasi 2A
 - Konsep Sistem Informasi 2B
 - Konsep Sistem Informasi 2C
+- Teori Organisasi Umum
+- Bahasa Inggris
