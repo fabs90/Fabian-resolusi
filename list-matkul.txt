@@ -2,3 +2,6 @@ List matkul
 - Algoritma & Pemrograman 2A
 - Algoritma & Pemrograman 2B
 - Algoritma & Pemrograman 2C
+- Konsep Sistem Informasi 2A
+- Konsep Sistem Informasi 2B
+- Konsep Sistem Informasi 2C
