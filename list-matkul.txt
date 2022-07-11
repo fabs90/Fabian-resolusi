@@ -1,0 +1,4 @@
+List matkul
+- Algoritma & Pemrograman 2A
+- Algoritma & Pemrograman 2B
+- Algoritma & Pemrograman 2C
